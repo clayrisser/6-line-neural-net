@@ -1,4 +1,4 @@
-# 7-line-neural-net
+# 6-line-neural-net
 The smallest neural network
 
 ## Credit
