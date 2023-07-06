@@ -2,7 +2,7 @@
 
 The smallest neural network
 
-![](assets/images/6-line-neural-net.png)
+![](assets/6-line-neural-net.png)
 
 ## Credit
 
